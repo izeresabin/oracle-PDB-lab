@@ -22,7 +22,10 @@
 - Accessed EM Express dashboard
 - Screenshot showing username:
 - <img width="1920" height="1080" alt="dash" src="https://github.com/user-attachments/assets/e80967bf-bfae-4549-ab2f-3d4f6f8bac0c" />
-
+### Note:
+PDBs created in Tasks 1 & 2 were verified using SQL Developer queries. 
+EM Express (lightweight version) has limited container display functionality 
+in Oracle XE edition.
 
 ## Challenges and Solutions
 - Any issues you faced and how you resolved them: I had to install new version of oracle inorder to get PDB Features.
